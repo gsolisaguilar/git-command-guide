@@ -1,0 +1,95 @@
+git-commands-guide/
+│
+├── README.md
+│
+├── docs/
+│   ├── 00-introduction/
+│   │   ├── what-is-git.md
+│   │   ├── git-vs-github.md
+│   │   └── git-lifecycle.md
+│   │
+│   ├── 01-basic-commands/
+│   │   ├── setup-and-config.md
+│   │   ├── create-and-clone-repositories.md
+│   │   ├── basic-workflow.md
+│   │   ├── status-add-commit.md
+│   │   └── log-and-history.md
+│   │
+│   ├── 02-branches/
+│   │   ├── branch-basics.md
+│   │   ├── switch-and-checkout.md
+│   │   ├── branch-naming.md
+│   │   └── delete-and-rename-branches.md
+│   │
+│   ├── 03-remote-repositories/
+│   │   ├── remotes.md
+│   │   ├── push-and-pull.md
+│   │   ├── fetch.md
+│   │   └── upstream-tracking.md
+│   │
+│   ├── 04-merges-and-conflicts/
+│   │   ├── merge-basics.md
+│   │   ├── conflict-resolution.md
+│   │   ├── aborting-merges.md
+│   │   └── merge-strategies.md
+│   │
+│   ├── 05-rebase/
+│   │   ├── rebase-basics.md
+│   │   ├── rebase-vs-merge.md
+│   │   ├── interactive-rebase.md
+│   │   └── safe-rebase-workflow.md
+│   │
+│   ├── 06-undoing-changes/
+│   │   ├── restore.md
+│   │   ├── reset.md
+│   │   ├── revert.md
+│   │   └── clean.md
+│   │
+│   ├── 07-stash/
+│   │   ├── stash-basics.md
+│   │   ├── stash-pop-apply.md
+│   │   └── stash-advanced.md
+│   │
+│   ├── 08-tags-and-releases/
+│   │   ├── tags.md
+│   │   ├── annotated-tags.md
+│   │   └── release-workflow.md
+│   │
+│   ├── 09-advanced-git/
+│   │   ├── cherry-pick.md
+│   │   ├── bisect.md
+│   │   ├── reflog.md
+│   │   ├── blame.md
+│   │   ├── submodules.md
+│   │   └── worktrees.md
+│   │
+│   ├── 10-professional-workflows/
+│   │   ├── git-flow.md
+│   │   ├── github-flow.md
+│   │   ├── trunk-based-development.md
+│   │   ├── pull-request-workflow.md
+│   │   └── code-review-workflow.md
+│   │
+│   └── 11-cheatsheets/
+│       ├── basic-commands-cheatsheet.md
+│       ├── branch-cheatsheet.md
+│       ├── merge-rebase-cheatsheet.md
+│       ├── undo-cheatsheet.md
+│       └── expert-cheatsheet.md
+│
+├── examples/
+│   ├── basic-workflow-example.md
+│   ├── branching-example.md
+│   ├── merge-conflict-example.md
+│   ├── rebase-example.md
+│   └── professional-workflow-example.md
+│
+├── workflows/
+│   ├── beginner-workflow.md
+│   ├── feature-branch-workflow.md
+│   ├── rebase-workflow.md
+│   ├── hotfix-workflow.md
+│   └── release-workflow.md
+│
+├── glossary/
+│   └── git-glossary.md
